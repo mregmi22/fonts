@@ -1,0 +1,11 @@
+*  {
+    background-color: #45B29D; 
+    text-align: center;
+    font-family: "Arial Bold", "Arial", sans-serif ; 
+     /* no need to put " " for since its connected with 
+     hyphen unlike others fonts */
+  }
+  h1 {
+    color: white; 
+    background-color: rgb(100, 100, 100);
+  }
